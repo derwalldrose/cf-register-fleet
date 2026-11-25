@@ -1,0 +1,9 @@
+fleet.env
+cf-batch/
+*.jsonl
+signup.json
+account.json
+key.json
+cf-signup-result.json
+__pycache__/
+*.pyc

@@ -1,0 +1,4 @@
+[
+  {"idx": 1, "suffix": "1", "host": "inbox.example.com", "prefix": "cf01"},
+  {"idx": 2, "suffix": "2", "host": "inbox.example.net", "prefix": "cf02"}
+]
